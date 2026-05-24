@@ -24,3 +24,8 @@ I am a data analyst and machine learning engineer passionate about building data
 - 💼 [LinkedIn](YOUR_LINK_HERE)
 - 🌐 [Personal Portfolio](YOUR_LINK_HERE)
 - 📧 [Email](mailto:engineer.baqer.hussaini@gmail.com)
+
+<div align="center">
+  <img src="buyMeCoffee.gif" alt="Buy me a coffee" width="400">
+</div>
+
