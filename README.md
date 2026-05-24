@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center"><b>Hi 👋 there, I'm Baqer Hussaini</b></h1>
 
-<!--
-**BaqerHussaini/BaqerHussaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Data Analyst & Machine Learning Engineer</b>
+</p>
 
-Here are some ideas to get you started:
+I am a data analyst and machine learning engineer passionate about building data-driven applications, discovering insights, and solving complex problems using AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm Up To
+- 🔭 I’m currently working on **Machine Learning & Data Analysis projects**
+- 🌱 I’m currently expanding my skills in **Scikit-Learn and Advanced ML workflows**
+- 🤝 I’m looking to collaborate on **Freelancing projects** (Data cleaning, predictive modeling, and dashboard creation)
+- 💬 Ask me about **Python, DSA, Data Analysis, and Scikit-Learn**
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Python, C++, Java
+- **Data Analysis & ML:** Pandas, NumPy, Scikit-Learn, PyTorch
+- **Visualization & BI:** Matplotlib, Seaborn, Excel, Power BI
+- **Databases & Tools:** MySQL, Git, GitHub
+- **AI Engineering Tools:** ChatGPT, Claude, Gemini
+
+### 📫 Connect With Me
+- 💼 [LinkedIn](YOUR_LINK_HERE)
+- 🌐 [Personal Portfolio](YOUR_LINK_HERE)
+- 📧 [Email](mailto:engineer.baqer.hussaini@gmail.com)
