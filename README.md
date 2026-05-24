@@ -26,6 +26,6 @@ I am a data analyst and machine learning engineer passionate about building data
 - 📧 [Email](mailto:engineer.baqer.hussaini@gmail.com)
 
 <div align="center">
-  <img src="buyMeCoffee.gif" alt="Buy me a coffee" width="400">
+  <img src="buyMeCoffee.gif" alt="Buy me a coffee" width="1500">
 </div>
 
