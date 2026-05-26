@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi 👋 there, I'm Baqer Hussaini</b></h1>
 
-<h4 align="center">
+<h3 align="center">
   <b>Data Analyst | Analytics Engineer</b>
-</h4>
+</h3>
 
 I am a results-driven Data Analyst specialized in managing the end-to-end data lifecycle. I transform raw, unstructured datasets into clean data pipelines, interactive dashboards, and predictive models that drive strategic business decisions. 
 
