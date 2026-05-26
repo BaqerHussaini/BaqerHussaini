@@ -1,29 +1,34 @@
 <h1 align="center"><b>Hi 👋 there, I'm Baqer Hussaini</b></h1>
 
 <p align="center">
-  <b>Data Analyst & Machine Learning Engineer</b>
+  <b>Data Analyst | Analytics Engineer</b>
 </p>
 
-I am a data analyst and machine learning engineer passionate about building data-driven applications, discovering insights, and solving complex problems using AI.
+I am a results-driven Data Analyst specialized in managing the end-to-end data lifecycle. I transform raw, unstructured datasets into clean data pipelines, interactive dashboards, and predictive models that drive strategic business decisions. 
 
-### 🔭 What I'm Up To
-- 🔭 I’m currently working on **Machine Learning & Data Analysis projects**
-- 🌱 I’m currently expanding my skills in **Scikit-Learn and Advanced ML workflows**
-- 🤝 I’m looking to collaborate on **Freelancing projects** (Data cleaning, predictive modeling, and dashboard creation)
-- 💬 Ask me about **Python, DSA, Data Analysis, and Scikit-Learn**
+### 🔭 Current Focus
+* 🚀 **Freelance Projects:** Delivering automated data cleaning, custom business dashboards, and data-driven solutions.
+* 📈 **Analytics Engineering:** Building scalable, optimized data transformation workflows and quality control systems.
+* 🤖 **Predictive Analytics:** Utilizing advanced statistical modeling and Scikit-Learn to forecast trends and outcomes.
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** Python, C++, Java
-- **Data Analysis & ML:** Pandas, NumPy, Scikit-Learn, PyTorch
-- **Visualization & BI:** Matplotlib, Seaborn, Excel, Power BI
-- **Databases & Tools:** MySQL, Git, GitHub
-- **AI Engineering Tools:** ChatGPT, Claude, Gemini
+* **Core Languages:** Python, SQL (MySQL), C++, Java
+* **Data Ingestion & Cleaning:** Pandas, NumPy, Data Pipeline Optimization
+* **Visualization & Business Intelligence:** Power BI, Microsoft Excel, Tableau, Matplotlib, Seaborn
+* **Predictive Modeling & ML:** Scikit-Learn, PyTorch, Statistical Analysis
+* **Developer Tools:** Git, GitHub, Advanced Prompt Engineering (ChatGPT, Claude, Gemini)
 
-### 📫 Connect With Me
-- 💼 [LinkedIn](YOUR_LINK_HERE)
-- 🌐 [Personal Portfolio](YOUR_LINK_HERE)
-- 📧 [Email](mailto:engineer.baqer.hussaini@gmail.com)
+---
+
+### 🤝 Let's Collaborate
+I am actively seeking freelance opportunities, contract work, and collaborative projects. If you need messy data organized, complex metrics visualized, or predictive insights uncovered, let's connect!
+
+* 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+* 🌐 [Personal Portfolio](YOUR_PORTFOLIO_URL)
+* 📧 [Email Me](mailto:engineer.baqer.hussaini@gmail.com)
 
 <div align="center">
   <img src="buyMeCoffee.gif" alt="Buy me a coffee" width="150">
