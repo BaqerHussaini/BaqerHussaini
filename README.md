@@ -31,6 +31,8 @@ I am actively seeking freelance opportunities, contract work, and collaborative 
 * 📧 [Email Me](mailto:engineer.baqer.hussaini@gmail.com)
 
 <div align="center">
+  <a href="https://buymeacoffee.com">
   <img src="buyMeCoffee.gif" alt="Buy me a coffee" width="150">
+    </a>
 </div>
 
