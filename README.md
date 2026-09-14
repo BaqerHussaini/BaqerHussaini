@@ -27,8 +27,8 @@ I am a results-driven professional specializing in managing the end-to-end data 
 ### 🤝 Let's Collaborate
 I am actively seeking freelance opportunities, contract work, and collaborative projects. If you need messy data organized, complex metrics visualized, or predictive ML models deployed, let's connect!
 
-* 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-* 🌐 [Personal Portfolio](YOUR_PORTFOLIO_URL)
+* 💼 [LinkedIn](https://linkedin.com/in/baqerhussaini)
+* 🌐 [Personal Portfolio](https://baqer-hussaini.vercel.app/)
 * 📧 [Email Me](mailto:engineer.baqer.hussaini@gmail.com)
 
 <div align="center">
