@@ -31,11 +31,6 @@ I'm open to internships, entry-level opportunities, and collaborating with other
 * 🌐 [Personal Portfolio](YOUR_PORTFOLIO_URL)
 * 📧 [Email Me](mailto:engineer.baqer.hussaini@gmail.com)
 
-<div align="center">
-  <a href="https://buymeacoffee.com" target="_blank">
-    <img src="buyMeCoffee.gif" alt="Buy me a coffee" width="150">
-  </a>
-</div>
 
 <div align="center">
   <a href="https://buymeacoffee.com" target="_blank">
