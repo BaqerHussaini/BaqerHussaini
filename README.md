@@ -4,7 +4,7 @@
   <b>Learning to build real-world AI products</b>
 </h3>
 
-I'm working toward becoming an AI Engineer — building software with AI running underneath it, rather than analysis that ends inside a notebook. I started with the classics of data science and machine learning, and I'm now moving toward building things people can actually use: APIs, tools, and eventually AI-powered products.
+I'm working toward becoming an AI Engineer — building softwares with AI running underneath it, rather than analysis that ends inside a notebook. I started with the classics of data science and machine learning, and I'm now moving toward building things people can actually use: APIs, tools, and eventually AI-powered products.
 
 ### 🔭 Current Focus
 * 📊 **Core ML Projects:** House price prediction, UCI heart disease prediction, and Titanic survival prediction — learning the fundamentals of the full ML workflow, from messy data to a working model.
