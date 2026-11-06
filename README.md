@@ -28,7 +28,7 @@ I'm working toward becoming an AI Engineer — building software with AI running
 I'm open to internships, entry-level opportunities, and collaborating with other learners and engineers on projects. If you're working on something interesting in AI/ML — or you're figuring out your own path like I am — I'd love to talk.
 
 * 💼 [LinkedIn](https://linkedin.com/in/baqerhussaini)
-* 🌐 [Personal Portfolio](https://personal-portfolio-gjch.onrender.com/)
+* 🌐 [Personal Portfolio](https://baqer-hussaini.onrender.com/)
 * 📧 [Email Me](mailto:engineer.baqer.hussaini@gmail.com)
 
 
